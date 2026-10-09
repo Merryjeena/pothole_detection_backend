@@ -1,0 +1,7 @@
+.venv/
+pycache/
+*.py[cod]
+.env
+.cache/
+runs/
+ai-image-detection/

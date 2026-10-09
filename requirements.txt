@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+ultralytics
+transformers
+huggingface_hub
+torch
+torchvision
+pillow
